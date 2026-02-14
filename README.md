@@ -12,9 +12,9 @@ desarrollar un modelo predictivo que permita estimar su valor a partir de distin
 - **`TFG_Analisis`**: cuaderno Jupyter con el Análisis Histórico y la imagen actual del mercado.
 - **`TFG_Modelización`**: cuaderno Jupyter con el análisis del dataset, preproceso y desarrollo de los modelos predictivos.
 - **`TFG_Memoria`**: memoria del TFG en formato pdf.
-- **`data/processed/`**: conjuntos de datos ya tratados y listos para su uso en los modelos
+- **`ddatos/`**: conjuntos de datos ya tratados y listos para su uso en los modelos
   y en la aplicación.
-- **`app/`**: código de las diferentes hojas para la aplicación web desarrollada con Streamlit.
+- **`codigos_app/`**: código de las diferentes hojas para la aplicación web desarrollada con Streamlit.
 
 ---
 
